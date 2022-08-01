@@ -45,7 +45,9 @@ I'm Bachelor 🎓 of Computer Science, Full Stack engineer and #opensource enthu
 </p>
 <h2 align="left"> :heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/carlos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-jorge-rodr%C3%ADguez-4a34141bb/)](https://www.linkedin.com/in/carlos-jorge-rodr%C3%ADguez-4a34141bb)[![Facebook Badge](https://img.shields.io/badge/-@carlos_jorge-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/carlosjorge.rodriguezcuello)](https://www.facebook.com/carlosjorge.rodriguezcuello)
+[![Linkedin Badge](https://img.shields.io/badge/carlos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-jorge-rodr%C3%ADguez-4a34141bb/)](https://www.linkedin.com/in/carlos-jorge-rodr%C3%ADguez-4a34141bb)
+[![Twitter Badge](https://img.shields.io/badge/-@CarlosJorgeRod3-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/CarlosJorgeRod3)](https://twitter.com/CarlosJorgeRod3)
+[![Facebook Badge](https://img.shields.io/badge/-@carlos_jorge-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/carlosjorge.rodriguezcuello)](https://www.facebook.com/carlosjorge.rodriguezcuello)
 
 <p align="center"><b>Stats</b></p>
 
@@ -55,8 +57,4 @@ I'm Bachelor 🎓 of Computer Science, Full Stack engineer and #opensource enthu
 
 ![Carlos's GitHub stats](https://activity-graph.herokuapp.com/graph?username=CarlosJorgeR&show_icons=true&theme=react-dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosJorgeR&theme=tokyonight)
-
-<!-- ## My Tech Stack
-
-![Bootstrap, TypeScript, CSS3, Docker, HTML5, C#, JavaScript, jQuery, Python](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=CarlosJorgeR&branding=false) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosJorgeR&theme=tokyonight&langs_count=7)
