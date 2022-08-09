@@ -15,7 +15,7 @@ I'm Bachelor 🎓 of Computer Science, Full Stack engineer and #opensource enthu
 </br>
 <h2>
     <p>
-        <b>Skills - Habilidades</b>
+        <b>Skills</b>
     </p>
 </h2>
 <p >
@@ -51,10 +51,10 @@ I'm Bachelor 🎓 of Computer Science, Full Stack engineer and #opensource enthu
 
 <p align="center"><b>Stats</b></p>
 
-![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosJorgeR&show_icons=true&theme=tokyonight)
+![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosJorgeR&show_icons=true&theme=tokyonight&count_private=true)
 
 ![Carlos's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=CarlosJorgeR&show_icons=true&theme=tokyonight)
 
 ![Carlos's GitHub stats](https://activity-graph.herokuapp.com/graph?username=CarlosJorgeR&show_icons=true&theme=react-dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosJorgeR&theme=tokyonight&langs_count=7)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosJorgeR&theme=tokyonight&langs_count=9)
