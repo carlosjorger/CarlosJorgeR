@@ -57,4 +57,4 @@ I'm Bachelor 🎓 of Computer Science, Full Stack engineer and #opensource enthu
 
 ![Carlos's GitHub stats](https://activity-graph.herokuapp.com/graph?username=CarlosJorgeR&show_icons=true&theme=react-dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosJorgeR&theme=tokyonight&langs_count=9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosJorgeR&theme=tokyonight&langs_count=8)
