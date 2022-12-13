@@ -1,24 +1,20 @@
-<h2>
-    <br>
-        <p>
-            <b>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
-            </b>
-        </p>
-</h2>
-<h2>
-    I'm Carlos 👨‍💻 and I'm from <img src="https://cdn.countryflags.com/thumbs/cuba/flag-3d-250.png" height="27" />
-</h2>
-</br>
+## **Hi there!** <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
+
+# I'm Carlos 👨‍💻 and I'm from <img src="https://cdn.countryflags.com/thumbs/cuba/flag-3d-250.png" height="27" />
+
 <h3>
 I'm Bachelor 🎓 of Computer Science, Full Stack engineer and #opensource enthusiast
 <h3>
 </br>
-<h2>
-    <p>
-        <b>Skills</b>
-    </p>
-</h2>
-<p >
+<ul>
+  <li>💼 See my portfolio at <a href="https://carlosjorger.github.io/">https://carlosjorger.github.io/</a></li>
+  <li>✉️ You can contact me at <a href="mailto:rodriguezcuelloc@gmail.com">rodriguezcuelloc@gmail.com</a></li></li>
+
+</ul>
+
+## **Skills**
+
+<p>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
   </a>
@@ -45,7 +41,8 @@ I'm Bachelor 🎓 of Computer Science, Full Stack engineer and #opensource enthu
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.microsoft.com/sql-server/" target="_blank"> <img src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" alt="Sql Server" width="40" height="40"/> </a>
 </p>
-<h2 align="left"> :heart: Let's get connected:</h2>
+
+## ❤️ Let's get connected:
 
 [![Linkedin Badge](https://img.shields.io/badge/carlos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-jorge-rodr%C3%ADguez-4a34141bb/)](https://www.linkedin.com/in/cjrcuello)
 [![Twitter Badge](https://img.shields.io/badge/-@carlosjorgerc-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/carlosjorgerc)](https://twitter.com/carlosjorgerc)
