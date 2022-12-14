@@ -2,12 +2,11 @@
 
 ## I'm Bachelor 🎓 of Computer Science, Full Stack engineer and #opensource enthusiast
 
-- 💼 See my portfolio at <a href="https://carlosjorger.github.io/">https://carlosjorger.github.io/</a>.
-- ✉️ You can contact me at <a href="mailto:rodriguezcuelloc@gmail.com">rodriguezcuelloc@gmail.com</a>
+- 💼 See my portfolio at [https://carlosjorger.github.io/](https://carlosjorger.github.io/).
+- ✉️ You can contact me at [rodriguezcuelloc@gmail.com](mailto:rodriguezcuelloc@gmail.com)
 
 ## **Skills**
 
-<p>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
   </a>
@@ -33,7 +32,6 @@
   <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="36" height="36"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.microsoft.com/sql-server/" target="_blank"> <img src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" alt="Sql Server" width="40" height="40"/> </a>
-</p>
 
 ## **Let's get connected** ❤️
 
