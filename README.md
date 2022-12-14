@@ -1,8 +1,6 @@
-## **Hi there!** <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
+# I'm Carlos Jorge 👨‍💻 from <img src="https://cdn.countryflags.com/thumbs/cuba/flag-3d-250.png" height="27" />
 
-# I'm Carlos Jorge 👨‍💻 and I'm from <img src="https://cdn.countryflags.com/thumbs/cuba/flag-3d-250.png" height="27" />
-
-### I'm Bachelor 🎓 of Computer Science, Full Stack engineer and #opensource enthusiast:
+## I'm Bachelor 🎓 of Computer Science, Full Stack engineer and #opensource enthusiast
 
 - 💼 See my portfolio at <a href="https://carlosjorger.github.io/">https://carlosjorger.github.io/</a>.
 - ✉️ You can contact me at <a href="mailto:rodriguezcuelloc@gmail.com">rodriguezcuelloc@gmail.com</a>
@@ -37,7 +35,7 @@
   <a href="https://www.microsoft.com/sql-server/" target="_blank"> <img src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" alt="Sql Server" width="40" height="40"/> </a>
 </p>
 
-## **Let's get connected** ❤️:
+## **Let's get connected** ❤️
 
 [![Linkedin Badge](https://img.shields.io/badge/carlos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-jorge-rodr%C3%ADguez-4a34141bb/)](https://www.linkedin.com/in/cjrcuello)
 [![Twitter Badge](https://img.shields.io/badge/-@carlosjorgerc-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/carlosjorgerc)](https://twitter.com/carlosjorgerc)
