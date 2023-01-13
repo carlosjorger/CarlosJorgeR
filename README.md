@@ -41,8 +41,8 @@
 
 ## **Stats**
 
-![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosjorger&show_icons=true&theme=tokyonight&count_private=true)
+![Carlos's GitHub stats](https://github-readme-stats-i66v.vercel.app/api?username=carlosjorger&show_icons=true&theme=tokyonight)
 
 ![Carlos's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=carlosjorger&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosjorger&theme=tokyonight&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosjorger&theme=tokyonight&layout=compact)
