@@ -45,4 +45,4 @@
 
 ![Carlos's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=carlosjorger&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosjorger&theme=tokyonight&layout=compact)
+![Top Langs](https://github-readme-stats-six-orpin-55.vercel.app/api/top-langs?username=carlosjorger&theme=tokyonight&layout=compact)
