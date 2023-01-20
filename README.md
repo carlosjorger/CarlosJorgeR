@@ -35,7 +35,7 @@
 
 ## **Let's get connected** ❤️
 
-[![Linkedin Badge](https://img.shields.io/badge/carlos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-jorge-rodr%C3%ADguez-4a34141bb/)](https://www.linkedin.com/in/cjrcuello)
+[![Linkedin Badge](https://img.shields.io/badge/carlos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-jorge-rodr%C3%ADguez-4a34141bb/)](https://www.linkedin.com/in/carlosjorger)
 [![Twitter Badge](https://img.shields.io/badge/-@carlosjorgerc-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/carlosjorgerc)](https://twitter.com/carlosjorgerc)
 [![Facebook Badge](https://img.shields.io/badge/-@carlos_jorge-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/carlosjorge.rodriguezcuello)](https://www.facebook.com/carlosjorge.rodriguezcuello)
 
