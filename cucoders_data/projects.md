@@ -1,19 +1,12 @@
-## [Nombre del proyecto 1](https://link-del-proyecto-1.com)
+## [Portafolio de Carlos Jorge](https://carlosjorger.github.io)
 
-![Nombre del proyecto 1](https://enlace-de-la-imagen-del-proyecto-1.jpg)
+![Portafolio de Carlos Jorge](https://carlosjorger.github.io/images/logo.png)
 
-Descripción: Pequeña descripción del proyecto 1
-
-## [Nombre del proyecto 2](https://link-del-proyecto-2.com)
-
-![Nombre del proyecto 2](https://enlace-de-la-imagen-del-proyecto-2.jpg)
-
-Descripción: Pequeña descripción del proyecto 2
-
-## [Nombre del proyecto 3](https://link-del-proyecto-3.com)
-
-![Nombre del proyecto 3](https://enlace-de-la-imagen-del-proyecto-3.jpg)
-
-Descripción: Pequeña descripción del proyecto 3
+Descripción: Mi portafolio personal. Muestro mis proyectos más importantes. Hecho solo en css, html y js
 
 
+## [CUVIMAKER](https://cuvimaker.netlify.app)
+
+![CUVIMAKER](https://cuvimaker.netlify.app/favicon.svg)
+
+Descripción: Un creador de curriculum online hecho en astro y usando componentes de vuejs en typescript.
