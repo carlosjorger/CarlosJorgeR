@@ -1,4 +1,4 @@
-# I'm Carlos Jorge 👨‍💻 from <img src="https://cdn.countryflags.com/thumbs/cuba/flag-3d-250.png" height="27" />
+# I'm Carlos Jorge 👨‍💻 from 🇨🇺
 
 ## I'm Bachelor 🎓 of Computer Science, Full Stack engineer and #opensource enthusiast
 
