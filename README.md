@@ -1,4 +1,4 @@
-# I'm Carlos Jorge 👨‍💻 from 🇨🇺
+# I'm Carlos Jorge 👨‍💻 from Cuba
 
 ## I'm Bachelor 🎓 of Computer Science, Full Stack engineer and #opensource enthusiast
 
