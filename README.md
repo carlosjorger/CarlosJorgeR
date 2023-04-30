@@ -1,6 +1,6 @@
-# I'm Carlos Jorge 👨‍💻 from Cuba
+# **I'm Carlos Jorge 👨‍💻 from Cuba**
 
-## I'm Bachelor 🎓 of Computer Science, Full Stack engineer and #opensource enthusiast
+## I'm Bachelor 🎓 of Computer Science, Full Stack engineer and opensource enthusiast
 
 - 💼 See my portfolio at [https://carlosjorger.github.io/](https://carlosjorger.github.io/).
 - ✉️ You can contact me at [rodriguezcuelloc@gmail.com](mailto:rodriguezcuelloc@gmail.com)
