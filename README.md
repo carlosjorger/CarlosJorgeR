@@ -27,7 +27,7 @@
      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vuejs" />
   </a>
   <a href="https://astro.build/" target="_blank" rel="noreferrer">
-     <img src="public/favicon.svg" width="40" height="40" alt="Astro" />
+     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Astro.svg" width="36" height="36" alt="Astro" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" />
@@ -41,9 +41,9 @@
 
 ## **Let's get connected** ❤️
 
-[![Linkedin Badge](/public/LinkedIN.svg)](https://www.linkedin.com/in/carlosjorger)
-[![Twitter Badge](public/Twitter.svg)](https://twitter.com/carlosjorgerc)
-[![Facebook Badge](public/Facebook.svg)](https://www.facebook.com/carlosjorge.rodriguezcuello)
+[![Linkedin Badge](https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg)](https://www.linkedin.com/in/carlosjorger)
+[![Twitter Badge](https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg)](https://twitter.com/carlosjorgerc)
+[![Facebook Badge](https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Facebook.svg)](https://www.facebook.com/carlosjorge.rodriguezcuello)
 
 ## **Stats**
 
