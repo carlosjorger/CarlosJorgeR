@@ -1,11 +1,11 @@
 # **I'm Carlos Jorge 👨‍💻 from Cuba**
 
-## I'm Bachelor 🎓 of Computer Science, Full Stack engineer and opensource enthusiast
+## I'm Bachelor 🎓 of Computer Science, Full Stack engineer 💻 and opensource enthusiast :astonished
 
 - 💼 See my portfolio at [https://carlosjorger.github.io/](https://carlosjorger.github.io/).
 - ✉️ You can contact me at [rodriguezcuelloc@gmail.com](mailto:rodriguezcuelloc@gmail.com)
 
-## **Skills**
+## **Skills 💪**
 
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
@@ -45,7 +45,7 @@
 [![Twitter Badge](https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg)](https://twitter.com/carlosjorgerc)
 [![Facebook Badge](https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Facebook.svg)](https://www.facebook.com/carlosjorge.rodriguezcuello)
 
-## **Stats**
+## **Stats :bar_chart:**
 
 ![Carlos's GitHub stats](https://github-readme-stats-six-orpin-55.vercel.app/api?username=carlosjorger&show_icons=true&theme=tokyonight)
 
