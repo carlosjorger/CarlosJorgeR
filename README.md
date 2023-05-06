@@ -44,6 +44,7 @@
 [![Linkedin Badge](https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg)](https://www.linkedin.com/in/carlosjorger)
 [![Twitter Badge](https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg)](https://twitter.com/carlosjorgerc)
 [![Facebook Badge](https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Facebook.svg)](https://www.facebook.com/carlosjorge.rodriguezcuello)
+[![Telegram Badge](https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg)](https://t.me/carlosjorger)
 
 ## **Stats :bar_chart:**
 
