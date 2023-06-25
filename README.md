@@ -39,7 +39,7 @@
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.microsoft.com/sql-server/" target="_blank"> <img src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" alt="Sql Server" width="40" height="40"/> </a>
 
-## **Let's get connected** 🤝
+## **Let's connect** 🤝
 
 [![Linkedin Badge](https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg)](https://www.linkedin.com/in/carlosjorger)
 [![Twitter Badge](https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg)](https://twitter.com/carlosjorgerc)
