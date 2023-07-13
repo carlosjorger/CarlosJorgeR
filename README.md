@@ -1,6 +1,6 @@
 # **<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="👋" width="45" height="45" />Hi, I'm Carlos Jorge 👨‍💻 from Cuba**
 
-## Bachelor degree 🎓 of Computer Science, Full Stack engineer 💻 and opensource lover 🥰
+## Bachelor degree 🎓 of Computer Science, Full Stack engineer 💻 and opensource lover ❤️
 
 - 💼 See my portfolio at [https://carlosjorger.github.io/](https://carlosjorger.github.io/).
 - ✉️ You can contact me at [rodriguezcuelloc@gmail.com](mailto:rodriguezcuelloc@gmail.com)
