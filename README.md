@@ -1,11 +1,11 @@
-# **Hi, I'm Carlos Jorge 👨‍💻 from Cuba**
+# **<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="👋" width="45" height="45" />Hi, I'm Carlos Jorge 👨‍💻 from Cuba**
 
 ## Bachelor degree 🎓 of Computer Science, Full Stack engineer 💻 and opensource lover 🥰
 
 - 💼 See my portfolio at [https://carlosjorger.github.io/](https://carlosjorger.github.io/).
 - ✉️ You can contact me at [rodriguezcuelloc@gmail.com](mailto:rodriguezcuelloc@gmail.com)
 
-## **Skills 💪**
+## 💪**Skills**
 
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
@@ -39,14 +39,14 @@
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.microsoft.com/sql-server/" target="_blank"> <img src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" alt="Sql Server" width="40" height="40"/> </a>
 
-## **Let's connect** 🤝
+## 🤝**Let's connect**
 
 [![Linkedin Badge](https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg)](https://www.linkedin.com/in/carlosjorger)&nbsp;
 [![Twitter Badge](https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg)](https://twitter.com/carlosjorgerc)&nbsp;
 [![Facebook Badge](https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Facebook.svg)](https://www.facebook.com/carlosjorge.rodriguezcuello)&nbsp;
 [![Telegram Badge](https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg)](https://t.me/carlosjorger)
 
-## **Stats :bar_chart:**
+## :bar_chart:**Stats**
 
 ![Carlos's GitHub stats](https://github-readme-stats-six-orpin-55.vercel.app/api?username=carlosjorger&show_icons=true&theme=tokyonight)
 
