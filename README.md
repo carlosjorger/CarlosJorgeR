@@ -48,7 +48,7 @@
   <a href="mailto:rodriguezcuelloc@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" alt="Gmail">
   </a>
-  <a href="mailto:rodriguezcuelloc@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=fff&style=for-the-badge" alt="Gmail">
+  <a href="https://www.reddit.com/user/carlosjorgerc/" target="_blank">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=fff&style=for-the-badge" alt="Reddit">
   </a>
 </p>
