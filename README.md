@@ -5,65 +5,48 @@
 - 💼 See my portfolio at [https://carlosjorger.github.io/](https://carlosjorger.github.io/).
 - ✉️ You can contact me at [rodriguezcuelloc@gmail.com](mailto:rodriguezcuelloc@gmail.com)
 
-## 💪**Skills**
+### 🛠️ Projects I have worked on
 
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="48" height="48" alt="C#" />
-  </a>
-  &nbsp;
-  <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" width="48" height="48" alt="C#" />
-  </a>
-  &nbsp;
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="48" height="48" alt="Python" />
-  </a>
-  &nbsp;
-    <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust.svg" width="48" height="48" alt="Rust" />
-  </a>
-  &nbsp;
-   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="html5" width="48" height="48"/> </a>
-   &nbsp;
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="css3" width="48" height="48"/> </a>
-    &nbsp;
-    <a href="https://angular.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="48" height="48" alt="Angular" />
-     </a>
-     &nbsp;
-     <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="48" height="48" alt="Vuejs" />
-  </a>
-  &nbsp;
-  <a href="https://astro.build/" target="_blank" rel="noreferrer">
-     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Astro.svg" width="48" height="48" alt="Astro" />
-  </a>
-  &nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="48" height="48" alt="Typescript" />
-  </a>
-  &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="48" height="48" alt="Javascript" />
-  </a>
-  &nbsp;
-  <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="48" height="48"/> </a>
-  &nbsp;
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="48" height="48"/> </a>
-  &nbsp;
-  <a href="https://www.microsoft.com/sql-server/" target="_blank"> <img src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" alt="Sql Server" width="48" height="48"/> </a>
+- [Vue Fluid DnD](https://vue-fluid-dnd.netlify.app/): A vue 3 drag and drop library for lists.
+- [Cuvimaker](https://cuvimaker.netlify.app/): An online editor of cv maker.
+- [Rustycopier](https://github.com/carlosjorger/rustycopier): A file copier made in Rust.
 
-## 🤝**Let's connect**
+<!-- TODO add about me -->
+<!-- TODO add articles -->
 
-[![Linkedin Badge](https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg)](https://www.linkedin.com/in/carlosjorger)&nbsp;&nbsp;
-[![Twitter Badge](https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg)](https://twitter.com/carlosjorgerc)&nbsp;&nbsp;
-[![Facebook Badge](https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Facebook.svg)](https://www.facebook.com/carlosjorge.rodriguezcuello)&nbsp;&nbsp;
-[![Telegram Badge](https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg)](https://t.me/carlosjorger)
+<h3 align="center">💪 Skills</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge" alt=".NET">
+   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" alt="Python">
+  <img src="https://img.shields.io/badge/Rust-2D3748?logo=rust&logoColor=fff&style=for-the-badge" alt="Rust">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=fff&style=for-the-badge" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge" alt="TypeScript">
+    <img src="https://img.shields.io/badge/Vue-4FC08D?logo=vuedotjs&logoColor=fff&style=for-the-badge" alt="Vue">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff&style=for-the-badge" alt="Astro">
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server">
+</p>
 
-## 🔥**Stats**
+<h3 align="center">📊 Stats</h3>
 
-![Carlos's GitHub stats](https://github-readme-stats-six-orpin-55.vercel.app/api?username=carlosjorger&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats-six-orpin-55.vercel.app/api?username=carlosjorger&show_icons=true&theme=dark"  alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosjorger&layout=donut&theme=dark" alt="Top language"/>
+</p>
 
-![Carlos's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=carlosjorger&show_icons=true&theme=tokyonight)
+<h3 align="center">🤝 Connect with Me</h3>
 
-![Top Langs](https://github-readme-stats-six-orpin-55.vercel.app/api/top-langs?username=carlosjorger&theme=tokyonight&layout=compact&langs_count=8)
+<p align="center">
+  <a href="https://t.me/carlosjorger" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge" alt="Telegram">
+  </a>
+  <a href="https://x.com/carcu_ps" target="_blank">
+    <img src="https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=for-the-badge" alt="X">
+  </a>
+  <a href="https://www.linkedin.com/in/carlosjorger" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Gmail">
+  </a>
+  <a href="mailto:rodriguezcuelloc@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" alt="Gmail">
+  </a>
+</p>
