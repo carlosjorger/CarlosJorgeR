@@ -1,9 +1,17 @@
-# **<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="👋" width="40" height="40" />Hi, I'm Carlos Jorge from Cuba**
+<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="👋" width="40" height="40" />Hi, I'm Carlos Jorge from Cuba
+</h1>
+<p align="center">
+ <b> 💻 Full Stack Engineer </b>   |  <b> 🧪 Computer Scientist</b></b>
+</p>
 
-## 👨‍💻Bachelor degree 🎓 of Computer Science Full Stack engineer 💻 and opensource lover ❤️
+<!-- TODO add about me -->
 
-- 💼 See my portfolio at [https://carlosjorger.github.io/](https://carlosjorger.github.io/).
-- ✉️ You can contact me at [rodriguezcuelloc@gmail.com](mailto:rodriguezcuelloc@gmail.com)
+### 🧑 About Me
+
+- 👨‍💻Bachelor degree 🎓 of Computer Science from Havana University.
+- 🚀 Side Project Fanatic.
+- 📚 Books Enthusiast.
+- 💼 Chek my [personal website](https://carlosjorger.github.io/) to see more information.
 
 ### 🛠️ Projects I have worked on
 
@@ -11,24 +19,15 @@
 - [Cuvimaker](https://cuvimaker.netlify.app/): An online editor of cv maker.
 - [Rustycopier](https://github.com/carlosjorger/rustycopier): A file copier made in Rust.
 
-<!-- TODO add about me -->
 <!-- TODO add articles -->
 
 <h3 align="center">💪 Skills</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge" alt=".NET">
-   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" alt="Python">
-  <img src="https://img.shields.io/badge/Rust-2D3748?logo=rust&logoColor=fff&style=for-the-badge" alt="Rust">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=fff&style=for-the-badge" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge" alt="TypeScript">
-    <img src="https://img.shields.io/badge/Vue-4FC08D?logo=vuedotjs&logoColor=fff&style=for-the-badge" alt="Vue">
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff&style=for-the-badge" alt="Astro">
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,typescript,html,css,vue,astro,tailwind,npm,dotnet,cs,python,rust,git,github,windows,visualstudio,vscode,obsidian&perline=6"/>
+  </a>
 </p>
-
 <h3 align="center">📊 Stats</h3>
-
 <p align="center">
   <img src="https://github-readme-stats-six-orpin-55.vercel.app/api?username=carlosjorger&show_icons=true&theme=dark"  alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosjorger&layout=donut&theme=dark" alt="Top language"/>
@@ -48,5 +47,8 @@
   </a>
   <a href="mailto:rodriguezcuelloc@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" alt="Gmail">
+  </a>
+  <a href="mailto:rodriguezcuelloc@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=fff&style=for-the-badge" alt="Gmail">
   </a>
 </p>
