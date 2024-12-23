@@ -4,12 +4,12 @@
  <b> <b> 💻 Full Stack Engineer </b>   |  <b> 🧪 Computer Scientist</b></b>
 </p>
 
-<!-- TODO add about me -->
+<!-- TODO add more information about me -->
 
 ### 🧑 About Me
 
 - 👨‍💻Bachelor degree 🎓 of Computer Science from Havana University.
-- 🚀 Side Project Fanatic.
+- 🚀 Side Project enthusiast.
 - 📚 Avid reader of fantasy, science fiction, and philosophy.
 - 💼 Chek my [personal website](https://carlosjorger.github.io/) to see more information.
 
@@ -23,7 +23,7 @@
 
 - [How to create a library for Vue3?](https://cucoders.dev/publicaciones/carlosjorger/como-crear-una-librer-a-para-vue3/)
 - [How to enhance the drag and drop of your Vue 3 application.](https://dev.to/carlosjorger/enhance-the-drag-and-drop-of-your-vue-3-application-with-vue-fluid-dnd-5acg)
-- [Vue Fluid DnD v0.7 Drag and drop across lists and more](https://dev.to/carlosjorger/vue-fluid-dnd-v07-drag-and-drop-across-lists-and-more-543k)
+- [Vue Fluid DnD v0.7 Drag and drop across lists and more.](https://dev.to/carlosjorger/vue-fluid-dnd-v07-drag-and-drop-across-lists-and-more-543k)
 
 <h3 align="center">💪 Skills</h3>
 <p align="center">
@@ -54,5 +54,11 @@
   </a>
   <a href="https://www.reddit.com/user/carlosjorgerc/" target="_blank">
     <img src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=fff&style=for-the-badge" alt="Reddit">
+  </a>
+  <a href="https://bsky.app/profile/carcu.bsky.social" target="_blank">
+    <img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge" alt="Bluesky">
+  </a>
+  <a href="https://mastodon.social/@carcu" target="_blank">
+    <img src="https://img.shields.io/badge/Mastodom-6364FF?logo=mastodon&logoColor=fff&style=for-the-badge" alt="Mastodom">
   </a>
 </p>
