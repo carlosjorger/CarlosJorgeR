@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="👋" width="40" height="40" />Hi, I'm Carlos Jorge from Cuba
 </h1>
 <p align="center">
- <b> 💻 Full Stack Engineer </b>   |  <b> 🧪 Computer Scientist</b></b>
+ <b> <b> 💻 Full Stack Engineer </b>   |  <b> 🧪 Computer Scientist</b></b>
 </p>
 
 <!-- TODO add about me -->
@@ -10,7 +10,7 @@
 
 - 👨‍💻Bachelor degree 🎓 of Computer Science from Havana University.
 - 🚀 Side Project Fanatic.
-- 📚 Books Enthusiast.
+- 📚 Avid reader of fantasy, science fiction, and philosophy.
 - 💼 Chek my [personal website](https://carlosjorger.github.io/) to see more information.
 
 ### 🛠️ Projects I have worked on
@@ -19,12 +19,16 @@
 - [Cuvimaker](https://cuvimaker.netlify.app/): An online editor of cv maker.
 - [Rustycopier](https://github.com/carlosjorger/rustycopier): A file copier made in Rust.
 
-<!-- TODO add articles -->
+### 📄 Articles
+
+- [How to create a library for Vue3?](https://cucoders.dev/publicaciones/carlosjorger/como-crear-una-librer-a-para-vue3/)
+- [How to enhance the drag and drop of your Vue 3 application.](https://dev.to/carlosjorger/enhance-the-drag-and-drop-of-your-vue-3-application-with-vue-fluid-dnd-5acg)
+- [Vue Fluid DnD v0.7 Drag and drop across lists and more](https://dev.to/carlosjorger/vue-fluid-dnd-v07-drag-and-drop-across-lists-and-more-543k)
 
 <h3 align="center">💪 Skills</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,typescript,html,css,vue,astro,tailwind,npm,dotnet,cs,python,rust,git,github,windows,visualstudio,vscode,obsidian&perline=6"/>
+    <img src="https://skillicons.dev/icons?i=js,typescript,html,css,vue,astro,tailwind,npm,dotnet,cs,python,rust,git,github,windows,visualstudio,vscode,obsidian&perline=6"/ alt="tecnologies icons">
   </a>
 </p>
 <h3 align="center">📊 Stats</h3>
